@@ -1,0 +1,12 @@
+E:\OneDrive - American International University-Bangladesh\Semester-6\OBJECT ORIENTED PROGRAMMING 2\RentalManagement\DbConnectionSample.Entities\bin\Debug\net6.0\DbConnectionSample.Entities.deps.json
+E:\OneDrive - American International University-Bangladesh\Semester-6\OBJECT ORIENTED PROGRAMMING 2\RentalManagement\DbConnectionSample.Entities\bin\Debug\net6.0\DbConnectionSample.Entities.dll
+E:\OneDrive - American International University-Bangladesh\Semester-6\OBJECT ORIENTED PROGRAMMING 2\RentalManagement\DbConnectionSample.Entities\bin\Debug\net6.0\DbConnectionSample.Entities.pdb
+E:\OneDrive - American International University-Bangladesh\Semester-6\OBJECT ORIENTED PROGRAMMING 2\RentalManagement\DbConnectionSample.Entities\obj\Debug\net6.0\DbConnectionSample.Entities.csproj.AssemblyReference.cache
+E:\OneDrive - American International University-Bangladesh\Semester-6\OBJECT ORIENTED PROGRAMMING 2\RentalManagement\DbConnectionSample.Entities\obj\Debug\net6.0\DbConnectionSample.Entities.GeneratedMSBuildEditorConfig.editorconfig
+E:\OneDrive - American International University-Bangladesh\Semester-6\OBJECT ORIENTED PROGRAMMING 2\RentalManagement\DbConnectionSample.Entities\obj\Debug\net6.0\DbConnectionSample.Entities.AssemblyInfoInputs.cache
+E:\OneDrive - American International University-Bangladesh\Semester-6\OBJECT ORIENTED PROGRAMMING 2\RentalManagement\DbConnectionSample.Entities\obj\Debug\net6.0\DbConnectionSample.Entities.AssemblyInfo.cs
+E:\OneDrive - American International University-Bangladesh\Semester-6\OBJECT ORIENTED PROGRAMMING 2\RentalManagement\DbConnectionSample.Entities\obj\Debug\net6.0\DbConnectionSample.Entities.csproj.CoreCompileInputs.cache
+E:\OneDrive - American International University-Bangladesh\Semester-6\OBJECT ORIENTED PROGRAMMING 2\RentalManagement\DbConnectionSample.Entities\obj\Debug\net6.0\DbConnectionSample.Entities.dll
+E:\OneDrive - American International University-Bangladesh\Semester-6\OBJECT ORIENTED PROGRAMMING 2\RentalManagement\DbConnectionSample.Entities\obj\Debug\net6.0\refint\DbConnectionSample.Entities.dll
+E:\OneDrive - American International University-Bangladesh\Semester-6\OBJECT ORIENTED PROGRAMMING 2\RentalManagement\DbConnectionSample.Entities\obj\Debug\net6.0\DbConnectionSample.Entities.pdb
+E:\OneDrive - American International University-Bangladesh\Semester-6\OBJECT ORIENTED PROGRAMMING 2\RentalManagement\DbConnectionSample.Entities\obj\Debug\net6.0\ref\DbConnectionSample.Entities.dll

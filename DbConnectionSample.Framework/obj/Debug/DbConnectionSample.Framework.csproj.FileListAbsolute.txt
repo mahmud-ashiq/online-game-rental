@@ -1,0 +1,12 @@
+E:\OneDrive - American International University-Bangladesh\Semester-6\OBJECT ORIENTED PROGRAMMING 2\RentalManagement\DbConnectionSample.Framework\bin\Debug\DbConnectionSample.Framework.dll
+E:\OneDrive - American International University-Bangladesh\Semester-6\OBJECT ORIENTED PROGRAMMING 2\RentalManagement\DbConnectionSample.Framework\bin\Debug\DbConnectionSample.Framework.pdb
+E:\OneDrive - American International University-Bangladesh\Semester-6\OBJECT ORIENTED PROGRAMMING 2\RentalManagement\DbConnectionSample.Framework\obj\Debug\DbConnectionSample.Framework.csproj.AssemblyReference.cache
+E:\OneDrive - American International University-Bangladesh\Semester-6\OBJECT ORIENTED PROGRAMMING 2\RentalManagement\DbConnectionSample.Framework\obj\Debug\DbConnectionSample.Framework.csproj.CoreCompileInputs.cache
+E:\OneDrive - American International University-Bangladesh\Semester-6\OBJECT ORIENTED PROGRAMMING 2\RentalManagement\DbConnectionSample.Framework\obj\Debug\DbConnectionSample.Framework.dll
+E:\OneDrive - American International University-Bangladesh\Semester-6\OBJECT ORIENTED PROGRAMMING 2\RentalManagement\DbConnectionSample.Framework\obj\Debug\DbConnectionSample.Framework.pdb
+F:\OneDrive - American International University-Bangladesh\Semester-6\OBJECT ORIENTED PROGRAMMING 2\RentalManagement\RentalManagement\DbConnectionSample.Framework\bin\Debug\DbConnectionSample.Framework.dll
+F:\OneDrive - American International University-Bangladesh\Semester-6\OBJECT ORIENTED PROGRAMMING 2\RentalManagement\RentalManagement\DbConnectionSample.Framework\bin\Debug\DbConnectionSample.Framework.pdb
+F:\OneDrive - American International University-Bangladesh\Semester-6\OBJECT ORIENTED PROGRAMMING 2\RentalManagement\RentalManagement\DbConnectionSample.Framework\obj\Debug\DbConnectionSample.Framework.csproj.AssemblyReference.cache
+F:\OneDrive - American International University-Bangladesh\Semester-6\OBJECT ORIENTED PROGRAMMING 2\RentalManagement\RentalManagement\DbConnectionSample.Framework\obj\Debug\DbConnectionSample.Framework.csproj.CoreCompileInputs.cache
+F:\OneDrive - American International University-Bangladesh\Semester-6\OBJECT ORIENTED PROGRAMMING 2\RentalManagement\RentalManagement\DbConnectionSample.Framework\obj\Debug\DbConnectionSample.Framework.dll
+F:\OneDrive - American International University-Bangladesh\Semester-6\OBJECT ORIENTED PROGRAMMING 2\RentalManagement\RentalManagement\DbConnectionSample.Framework\obj\Debug\DbConnectionSample.Framework.pdb

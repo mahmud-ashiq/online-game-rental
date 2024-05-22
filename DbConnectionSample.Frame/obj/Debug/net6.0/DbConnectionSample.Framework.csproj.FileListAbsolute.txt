@@ -1,0 +1,12 @@
+E:\OneDrive - American International University-Bangladesh\Semester-6\OBJECT ORIENTED PROGRAMMING 2\RentalManagement\DbConnectionSample.Framework\bin\Debug\net6.0\DbConnectionSample.Framework.deps.json
+E:\OneDrive - American International University-Bangladesh\Semester-6\OBJECT ORIENTED PROGRAMMING 2\RentalManagement\DbConnectionSample.Framework\bin\Debug\net6.0\DbConnectionSample.Framework.dll
+E:\OneDrive - American International University-Bangladesh\Semester-6\OBJECT ORIENTED PROGRAMMING 2\RentalManagement\DbConnectionSample.Framework\bin\Debug\net6.0\DbConnectionSample.Framework.pdb
+E:\OneDrive - American International University-Bangladesh\Semester-6\OBJECT ORIENTED PROGRAMMING 2\RentalManagement\DbConnectionSample.Framework\obj\Debug\net6.0\DbConnectionSample.Framework.csproj.AssemblyReference.cache
+E:\OneDrive - American International University-Bangladesh\Semester-6\OBJECT ORIENTED PROGRAMMING 2\RentalManagement\DbConnectionSample.Framework\obj\Debug\net6.0\DbConnectionSample.Framework.GeneratedMSBuildEditorConfig.editorconfig
+E:\OneDrive - American International University-Bangladesh\Semester-6\OBJECT ORIENTED PROGRAMMING 2\RentalManagement\DbConnectionSample.Framework\obj\Debug\net6.0\DbConnectionSample.Framework.AssemblyInfoInputs.cache
+E:\OneDrive - American International University-Bangladesh\Semester-6\OBJECT ORIENTED PROGRAMMING 2\RentalManagement\DbConnectionSample.Framework\obj\Debug\net6.0\DbConnectionSample.Framework.AssemblyInfo.cs
+E:\OneDrive - American International University-Bangladesh\Semester-6\OBJECT ORIENTED PROGRAMMING 2\RentalManagement\DbConnectionSample.Framework\obj\Debug\net6.0\DbConnectionSample.Framework.csproj.CoreCompileInputs.cache
+E:\OneDrive - American International University-Bangladesh\Semester-6\OBJECT ORIENTED PROGRAMMING 2\RentalManagement\DbConnectionSample.Framework\obj\Debug\net6.0\DbConnectionSample.Framework.dll
+E:\OneDrive - American International University-Bangladesh\Semester-6\OBJECT ORIENTED PROGRAMMING 2\RentalManagement\DbConnectionSample.Framework\obj\Debug\net6.0\refint\DbConnectionSample.Framework.dll
+E:\OneDrive - American International University-Bangladesh\Semester-6\OBJECT ORIENTED PROGRAMMING 2\RentalManagement\DbConnectionSample.Framework\obj\Debug\net6.0\DbConnectionSample.Framework.pdb
+E:\OneDrive - American International University-Bangladesh\Semester-6\OBJECT ORIENTED PROGRAMMING 2\RentalManagement\DbConnectionSample.Framework\obj\Debug\net6.0\ref\DbConnectionSample.Framework.dll
